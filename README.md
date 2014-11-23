@@ -3,6 +3,8 @@
 This extension offers a custom XML text tag, sequence_diagram, that converts
 simple text to an UML sequence diagram in SVG.
 
+![Sequence diagram in custom tag](https://github.com/bdunogier/ez-js-sequence-diagram/raw/master/doc/ez-js-sequence-diagram.png)
+
 It is based on [bramp/js-sequence-diagrams](http://bramp.github.io/js-sequence-diagrams/).
 
 ## Installation
