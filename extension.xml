@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>eZ JS Sequence Diagram</name>
+        <version>dev-master</version>
+        <license>GNU Lesser General Public License v2.1<license>
+        <info_url>https://github.com/bdunogier/ez-js-sequence-diagram</info_url>
+
+        <software>
+            <uses>
+                <name>bramp/ez-js-sequence-diagrams</name>
+                <license>GNU Lesser General Public License v2.1</license>
+                <info_url>http://bramp.github.io/js-sequence-diagrams/</info_url>
+                <version>dev-master@fdf2a1d</version>
+            </uses>
+        </software>
+    </metadata>
+
+    <dependencies>
+        <requires>
+            <extension name="ezjscore" />
+        </requires>
+    </dependencies>
+
+</software>

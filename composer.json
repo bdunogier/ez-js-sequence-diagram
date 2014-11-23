@@ -1,7 +1,8 @@
 {
     "name": "bdunogier/ez-js-sequence-diagram",
     "description": "Custom XML text tag to draw simple UML sequence diagrams",
-    "license": "GPL v2",
+    "license": "GNU Lesser General Public License v2.1"
+    "type": "ezpublish-legacy-extension",
     "authors": [
         {
             "name": "Bertrand Dunogier",
