@@ -1,0 +1,13 @@
+{
+    "name": "bdunogier/ez-js-sequence-diagram",
+    "description": "Custom XML text tag to draw simple UML sequence diagrams",
+    "license": "GPL v2",
+    "authors": [
+        {
+            "name": "Bertrand Dunogier",
+            "email": "bertrand.dunogier@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
